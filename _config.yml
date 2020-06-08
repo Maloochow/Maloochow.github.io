@@ -1,11 +1,11 @@
 # Site settings
 author: Luyao Ma
-title: Preserving Art with Code
+title: Journey with Coding
 header-img: img/home-bg.png
 email: luyao.mly@gmail.com
 copyright_name: Luyao Ma
 description: > # this means to ignore newlines until "baseurl:"
-  Create Memories for the Future
+  Better making mistakes now!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Maloochow
