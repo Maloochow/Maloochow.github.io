@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A Gem with personality ٩( 'ω' )و"
-date:       2020-06-20 03:54:34 +0000
+date:       2020-06-19 23:54:34 -0400
 permalink:  a_gem_with_personality
 ---
 
