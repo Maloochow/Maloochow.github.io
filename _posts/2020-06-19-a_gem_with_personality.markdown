@@ -16,7 +16,7 @@ This Gem has strong personality. How do I know that (not just bc I'm the mom duh
 
 
 Now let's talk about my journey:
-# 1. Errors coming back bc...?
+# 1. Error keeps coming back bc...?
 I used two differet API and a JSON file I downloaded locally. For documentation purpose, I will specify the two ways I used to apply API key below:
 
 1st way:
