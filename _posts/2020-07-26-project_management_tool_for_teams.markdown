@@ -13,6 +13,12 @@ In this project, I picked up the requirements we had and created an ideal versio
 <not done writing yet>
 
 # Delete is not Destroy
+```
+class Category < ActiveRecord::Base
+  has_many: :posts,
+             dependent: :nullify
+end
+```
 
 # Master has_and_belongs_to_many alternatives
 
