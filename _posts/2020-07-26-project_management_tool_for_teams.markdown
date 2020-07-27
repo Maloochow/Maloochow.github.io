@@ -10,8 +10,6 @@ In my past work, my team wants to find a tool to mange the previews that our gal
 
 In this project, I picked up the requirements we had and created an ideal version of app that we were looking for! These are the things I learnt from the process:
 
-<not done writing yet>
-
 # Delete is not Destroy
 ```
 class Category < ActiveRecord::Base
