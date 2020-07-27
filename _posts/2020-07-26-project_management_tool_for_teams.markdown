@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Project Management Tool for Teams"
-date:       2020-07-27 03:16:20 +0000
+date:       2020-07-26 23:16:21 -0400
 permalink:  project_management_tool_for_teams
 ---
 
@@ -10,6 +10,7 @@ In my past work, my team wants to find a tool to mange the previews that our gal
 
 In this project, I picked up the requirements we had and created an ideal version of app that we were looking for! These are the things I learnt from the process:
 
+<not done writing yet>
 # Delete is not Destroy
 
 # Master has_and_belongs_to_many alternatives
