@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Use Socket.io with React.js for a movie swipe app"
-date:       2020-10-26 04:46:08 +0000
+date:       2020-10-26 00:46:09 -0400
 permalink:  use_socket_io_with_react_js_for_a_movie_swipe_app
 ---
 
